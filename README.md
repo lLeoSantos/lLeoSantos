@@ -1,5 +1,5 @@
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from Lesc;
 class SobreMim extends Desenvolvedor {
   nome  = Leonardo;
   area  = Dev Web;
