@@ -14,13 +14,13 @@ class Skills extends Desenvolvedor {
 ```
 
 <p align="left">
-  <a href="leonscosta@rd.com.br" alt="Gmail">
+  <a href="mailto:leonscosta@rd.com.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leonscosta@rd.com.br" /></a>
 
   <a href="https://www.linkedin.com/in/leonardosantosdev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&href=https://www.linkedin.com/in/leonardosantosdev/" /></a>
 
-  <a href="5521975917170" alt="WhatsApp">
+  <a href="https://web.whatsapp.com/send?phone=5521975917170" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=5521975917170"/></a>
 
 
